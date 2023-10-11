@@ -32,7 +32,6 @@ create conda env
 ```base
 conda create -p venv python=3.6 -y
 ```
-
 activate conda env
 ```base
 conda activate venv/
@@ -49,3 +48,4 @@ python hand_detection.py
 ```
 
 for closing enter q key
+close the file
