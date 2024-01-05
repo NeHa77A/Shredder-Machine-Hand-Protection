@@ -47,5 +47,18 @@ Run Python file
 python hand_detection.py
 ```
 
+
+
+## Output
+![](https://raw.githubusercontent.com/NeHa77A/Shredder-Machine-Hand-Protection/main/output/Screenshot%201.png)
+
+### safe line
+![](https://raw.githubusercontent.com/NeHa77A/Shredder-Machine-Hand-Protection/main/output/Screenshot%202.png)
+
+### Alert message
+![](https://raw.githubusercontent.com/NeHa77A/Shredder-Machine-Hand-Protection/main/output/Screenshot%203.png)
+
+
 for closing enter q key
+
 close the file
