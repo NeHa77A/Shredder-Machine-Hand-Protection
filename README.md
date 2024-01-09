@@ -1,7 +1,6 @@
 # Shredder Machine Hand Protection
 ##  Problem
-
-According to data from the Consumer Product Safety Commission, over 2,000 people were treated in hospitals for business and office machine-related injuries in 2007. A significant portion of these injuries resulted from mishaps with paper shredders, particularly lacerations to fingers. These injuries can range from minor cuts to severe amputations and can lead to lasting physical and psychological trauma.
+In industrial settings, shredder machines are employed to process waste materials. These machines require manual feeding, wherein operators place garbage into the shredder. However, a significant safety concern arises if a person accidentally inserts their hand into the shredder while feeding garbage, resulting in potential injury. This poses a serious risk to the operators and necessitates a solution to enhance safety during manual operation.
 
 ## solution
 we will delve into a comprehensive solution that combines data science, TensorFlow Object Detection (TFOD), and OpenCV to enhance safety around these machines. The solution aims to create a "Safety Line" for warnings and a "Borderline" for shutting down the machine when necessary.
