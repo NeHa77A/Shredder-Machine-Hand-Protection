@@ -5,6 +5,9 @@ In industrial settings, shredder machines are employed to process waste material
 ## solution
 we will delve into a comprehensive solution that combines data science, TensorFlow Object Detection (TFOD), and OpenCV to enhance safety around these machines. The solution aims to create a "Safety Line" for warnings and a "Borderline" for shutting down the machine when necessary.
 
+## Project workflow
+![](https://raw.githubusercontent.com/NeHa77A/Shredder-Machine-Hand-Protection/main/protos/workflow.png)
+
 ### Tech Stack Selection
 
 Programming Language: Python 3.6 is chosen for its versatility and strong support in the data science and machine learning communities.
